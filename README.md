@@ -1,6 +1,6 @@
 <h1 align="left" >Hi, I'm Lais Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF4858&repeat=false&random=false&width=468&height=40&lines=Software+Engineering" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF4858&repeat=false&random=false&width=468&height=40&lines=Software+Developer" alt="Typing SVG" /></a></p>
 <p align="left">
 <a href="https://linkedin.com/in/lais-rocha15" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lais-rocha15"/></a>
 <a href="https://discord.gg/lais.rocha" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="lais.rocha" /></a>
@@ -22,7 +22,6 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissousar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
 </div>
 
 
