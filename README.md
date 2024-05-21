@@ -7,7 +7,7 @@
 <a href="mailto:laissouroch@gmail.com?subject=CONTATO&body=Ol%C3%A1,+Lais!"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="laissouroch@gmail.com" /></a>
 </p>
 <h2 align="left"> 🚀 About me </h2>
-<p>A computer engineering student passionate about full-stack software development. Enthusiastic about web technologies, seeking to learn and contribute to projects, and start a career in software development. </p> 
+<p>A computer engineering student passionate about full-stack software development. Enthusiastic about web technologies and cloud computing, seeking to learn and contribute to projects, and start a career in software development. </p> 
 <p>📫 How to reach me <strong>laissouroch@gmail.com</strong></p> 
 <div>
 <h2>🛠️ Languages and Tools:</h2>
